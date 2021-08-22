@@ -1,7 +1,8 @@
 <div align="center">
-<img width="100%" height = "350px" src="https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg" alt="cover" />
+<img width="100%" height = "100%" src="https://c4.wallpaperflare.com/wallpaper/364/854/488/digital-art-photoshop-concept-art-futuristic-wallpaper-preview.jpg" alt="cover" />
 </div>
-
+<!-- //
+https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
