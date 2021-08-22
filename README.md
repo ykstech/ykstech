@@ -35,9 +35,15 @@ https://i.pinimg.com/originals/30/a7/01/30a7018bd7a59a852f4177295208dd55.jpg -->
 <a href = 'https://www.linkedin.com/in/yash-sugandhi-64205a17a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/ykstech'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ykstech)  
-
-
+  
+  <h2>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/112cfeed9c7e8c2b364351de34c8789ba5c39e6f2cf75146d26d12dcccd69cb5/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d796b7374656368"><img src="https://camo.githubusercontent.com/112cfeed9c7e8c2b364351de34c8789ba5c39e6f2cf75146d26d12dcccd69cb5/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d796b7374656368" alt="GitHub streak stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ykstech" style="max-width:100%;"></a>
+  </h2>
+<!--   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ykstech)  
+ -->
+  
+  
+  
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
